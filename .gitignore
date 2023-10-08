@@ -1,0 +1,2 @@
+# Ignore sample data files from MSU undergrad data science segmentation project
+sample_data/*

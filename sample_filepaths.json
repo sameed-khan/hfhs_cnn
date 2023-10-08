@@ -1,0 +1,2912 @@
+[
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[33].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[30].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000290/4000302/T.5.0000290.4000302[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000319/4000332/T.6.0000319.4000332[28].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000319/4000332/T.6.0000319.4000332[27].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000319/4000332/T.6.0000319.4000332[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000319/4000332/T.6.0000319.4000332[25].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000319/4000332/T.6.0000319.4000332[26].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[44].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[43].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000410/4000431/T.1.0000410.4000431[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[75].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[78].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[76].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[74].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000470/4000498/T.3.0000470.4000498.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[18].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[27].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[28].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[37].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[44].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[17].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[43].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[30].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000230/4000238/T.5.0000230.4000238[11].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[50].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000287/4000299/T.6.0000287.4000299[51].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000386/4000405/T.6.0000386.4000405[23].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000386/4000405/T.6.0000386.4000405[15].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000386/4000405/T.6.0000386.4000405[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000386/4000405/T.6.0000386.4000405[24].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000386/4000405/T.6.0000386.4000405[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[51].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[50].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000404/4000425/T.5.0000404.4000425[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[25].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[26].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[20].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[21].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[23].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[24].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[19].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[36].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[35].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/1.OUT/0000286/4000298/T.4.0000286.4000298[22].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[33].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[30].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000290/4000302/T.5.0000290.4000302[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000319/4000332/T.6.0000319.4000332[28].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000319/4000332/T.6.0000319.4000332[27].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000319/4000332/T.6.0000319.4000332[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000319/4000332/T.6.0000319.4000332[25].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000319/4000332/T.6.0000319.4000332[26].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[44].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[43].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000410/4000431/T.1.0000410.4000431[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[75].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[78].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[76].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[74].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000470/4000498/T.3.0000470.4000498.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[18].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[27].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[28].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[37].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[44].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[17].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[43].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[30].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000230/4000238/T.5.0000230.4000238[11].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[50].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000287/4000299/T.6.0000287.4000299[51].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000386/4000405/T.6.0000386.4000405[23].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000386/4000405/T.6.0000386.4000405[15].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000386/4000405/T.6.0000386.4000405[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000386/4000405/T.6.0000386.4000405[24].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000386/4000405/T.6.0000386.4000405[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[51].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[50].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000404/4000425/T.5.0000404.4000425[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[25].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[26].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[20].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[21].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[23].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[24].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[19].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[36].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[35].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/2.OUT/0000286/4000298/T.4.0000286.4000298[22].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[33].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[30].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000290/4000302/T.5.0000290.4000302[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000319/4000332/T.6.0000319.4000332[28].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000319/4000332/T.6.0000319.4000332[27].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000319/4000332/T.6.0000319.4000332[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000319/4000332/T.6.0000319.4000332[25].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000319/4000332/T.6.0000319.4000332[26].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[44].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[43].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000410/4000431/T.1.0000410.4000431[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[75].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[78].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[76].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[74].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000470/4000498/T.3.0000470.4000498.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[18].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[27].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[28].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[37].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[44].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[17].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[43].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[30].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000230/4000238/T.5.0000230.4000238[11].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[31].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[46].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[50].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[45].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000287/4000299/T.6.0000287.4000299[51].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000386/4000405/T.6.0000386.4000405[23].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000386/4000405/T.6.0000386.4000405[15].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000386/4000405/T.6.0000386.4000405[29].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000386/4000405/T.6.0000386.4000405[24].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000386/4000405/T.6.0000386.4000405[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[49].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[4].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[51].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[50].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[2].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[5].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[3].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[48].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000404/4000425/T.5.0000404.4000425[47].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[25].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[26].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[20].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298.dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[21].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[23].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[32].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[24].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[34].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[19].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[1].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[36].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[35].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 0,
+        "Site": "BLM",
+        "RG_noBMI": "NA"
+    },
+    {
+        "dcmpath": "sample_data/3.OUT/0000286/4000298/T.4.0000286.4000298[22].dcm",
+        "txtpath": "NA",
+        "Identifier": "NA",
+        "MRN": "NA",
+        "ACC": "NA",
+        "Binary": 1,
+        "Site": "HFH",
+        "RG_noBMI": "NA"
+    }
+]
